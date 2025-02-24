@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345403329261",
+    "project_id": "fixmasters-17b0f",
+    "storage_bucket": "fixmasters-17b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345403329261:android:224beea4cc534b734a9ae4",
+        "android_client_info": {
+          "package_name": "com.naodtadele.fixmasters_handyman_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmadBWNPfkXmykYx_huDb2U58kLKswGfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345403329261:android:c032e5c9000c682f4a9ae4",
+        "android_client_info": {
+          "package_name": "com.naodtadele.fixmasters_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmadBWNPfkXmykYx_huDb2U58kLKswGfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
